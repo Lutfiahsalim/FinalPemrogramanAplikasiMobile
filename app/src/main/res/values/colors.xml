@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5F0ED</color>
+    <color name="colorPrimaryDark">#3D5361</color>
+    <color name="colorAccent">#D4C6BD</color>
+
+    <color name="colorBlue">#F5F0ED</color>
+    <color name="colorTextBody">#D4C6BD</color>
+
+    <color name="fibBg">#D6B7B5</color>
+    <color name="cardBgPink">#F5F0ED</color>
+    <color name="cardBgBlue">#D4C6BD</color>
+    <color name="cardBgViolet">#D6B7B5</color>
+    <color name="cardBgBlack">#3D5361</color>
+    <color name="cardBgOrange">#FFA500</color>
+</resources>
